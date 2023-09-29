@@ -126,6 +126,13 @@ html {
     }
 }
 
+.floatWhatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 2;
+}
+
 .cover {
     background-image: url(../img/cover_bg.jpeg);
     background-position: center center;
